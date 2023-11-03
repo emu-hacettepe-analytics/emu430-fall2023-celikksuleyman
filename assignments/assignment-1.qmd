@@ -8,8 +8,28 @@ title: "Assignment 1"
 1 + 1
 ```
 
-My first assignment has two parts.
+My first assignment has three parts.
 
-## (a)
+## (a)Getting Started with Shiny for Python - in the browser! \|\| Winston Chang \|\| Posit
+
+I watched the video "Getting Started with Shiny for Python - in the browser! \|\| Winston Chang \|\| Posit" from Posit youtube channel. The video explains how to use a programming package called shiny in Python language. The person who recorded the video wrote Python codes on the left and created an interface on the right. This interface is like a meter, you use your mouse to move the meter's indicator to the right or left to the desired size. And the function at the bottom on the left is working. It returns you twice the size you set.
 
 ## (b)
+
+1.  **Syntax and Programming Paradigm:**
+
+    -   R: R is a domain-specific language designed primarily for statistical analysis and data visualization. It has a specialized syntax that is tailored for data manipulation, statistical modeling, and graphing. R uses a functional programming paradigm, which means it treats functions as first-class objects, making it well-suited for statistical analysis and data transformations.
+
+    -   Python: Python is a general-purpose programming language with a versatile and easy-to-learn syntax. It supports various programming paradigms, including object-oriented, procedural, and functional programming. Python's flexibility makes it a more versatile language for tasks beyond data analysis, such as web development, scripting, and automation.
+
+2.  **Libraries and Ecosystem:**
+
+    -   R: R has a rich ecosystem of packages and libraries specifically designed for statistical analysis, data visualization, and machine learning. Some popular libraries include ggplot2 for data visualization, dplyr for data manipulation, and caret for machine learning. The Comprehensive R Archive Network (CRAN) is the primary repository for R packages.
+
+    -   Python: Python also has a strong ecosystem for data analysis and machine learning, with libraries like NumPy for numerical computing, pandas for data manipulation, Matplotlib and Seaborn for data visualization, and scikit-learn for machine learning. Python's broader use means it has libraries for a wide range of applications beyond data science, such as web development (Django, Flask), scientific computing (SciPy), and natural language processing (NLTK).
+
+3.  **Data Handling:**
+
+    -   R: R is well-known for its excellent data handling capabilities. It provides specialized data structures like data frames, which are ideal for organizing and analyzing structured data. R also offers a wide range of functions for data manipulation, including filtering, grouping, and reshaping data frames easily.
+
+    -   Python: Python's data handling is also robust, primarily due to libraries like pandas. Pandas provides data structures such as DataFrames and Series, which are highly efficient for working with structured data. Python's versatility means it can handle a broader range of data formats and sources, including text data, web data, and more, making it suitable for various data science tasks.
