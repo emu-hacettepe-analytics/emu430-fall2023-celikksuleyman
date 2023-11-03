@@ -5,26 +5,26 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+**Kaynak group, Turkey 15/06/2022-15/07/2022**
 
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+I had lots of experinces in production department of the Kaynak textile in my first year of university.
 
 # Competencies
 
 R, Quarto, Git, Python
 
 # Hobbies
+
+watching films and series
+
+reading book
+
+trying new things
+
+to see new places
