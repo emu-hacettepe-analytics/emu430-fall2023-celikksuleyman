@@ -12,5 +12,3 @@ This is my personal webpage.
 Please stay tuned to follow my works on data analytics, blog posts, and more.
 
 This is our template.
-
-href: <https://drive.google.com/file/d/194htx0L8P6PFuDPEPhJmM6Az9xQt7o-M/view?usp=sharing>

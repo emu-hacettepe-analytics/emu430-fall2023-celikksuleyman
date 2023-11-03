@@ -33,3 +33,7 @@ Microsoft Excel Temelleri - BTK Akademi
 İleri Seviye Excel - BTK Akademi
 Power Bi -- BTK Akademi
 Temel Python -- İstanbul İşletme Enstitüsü
+
+# CV
+
+href: <https://drive.google.com/file/d/194htx0L8P6PFuDPEPhJmM6Az9xQt7o-M/view?usp=sharing>
