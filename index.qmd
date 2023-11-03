@@ -3,6 +3,8 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
+![](images/108790 SÜLEYMAN ÇEVİK.jpg){width="193"}
+
 **Hello! My name is Süleyman Çelik**
 
 This is my personal webpage.

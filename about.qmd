@@ -5,7 +5,8 @@ sidebar: false
 
 # Education
 
--   Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
+-   English Preparation Hacettepe University, Turkey ,Oct 2020 - Jun 2021
+-   Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
@@ -13,11 +14,7 @@ sidebar: false
 
 **Kaynak group, Turkey 15/06/2022-15/07/2022**
 
-I had lots of experinces in production department of the Kaynak textile in my first year of university.
-
-# Competencies
-
-R, Quarto, Git, Python..
+During my internship, I worked in the production department in the textile industry. I had the opportunity to get to know him closely. During my internship production order taking, process planning, shift adjustment, interdepartmental organizations etc. I took part in activations.
 
 # Hobbies
 
@@ -28,3 +25,11 @@ reading book
 trying new things
 
 to see new places
+
+# Certificates
+
+Diksiyon Eğitimi - İstanbul İşletme Enstitüsü
+Microsoft Excel Temelleri - BTK Akademi
+İleri Seviye Excel - BTK Akademi
+Power Bi -- BTK Akademi
+Temel Python -- İstanbul İşletme Enstitüsü
