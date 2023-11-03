@@ -36,4 +36,4 @@ Temel Python -- İstanbul İşletme EnstitüsüCV
 
 # CV
 
-href: <https://drive.google.com/file/d/194htx0L8P6PFuDPEPhJmM6Az9xQt7o-M/view?usp=sharing>
+<https://drive.google.com/file/d/194htx0L8P6PFuDPEPhJmM6Az9xQt7o-M/view?usp=sharing>
