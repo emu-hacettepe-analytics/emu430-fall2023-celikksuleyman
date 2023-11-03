@@ -17,7 +17,7 @@ I had lots of experinces in production department of the Kaynak textile in my fi
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python..
 
 # Hobbies
 

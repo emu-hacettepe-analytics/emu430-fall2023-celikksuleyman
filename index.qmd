@@ -3,7 +3,7 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is Süleyman Çelik
+**Hello! My name is Süleyman Çelik**
 
 This is my personal webpage.
 
