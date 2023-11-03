@@ -22,11 +22,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/celikksuleyman
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/s%C3%BCleyman-%C3%A7elik-989009225/
 
   sidebar:
     - title: "Assignments"
