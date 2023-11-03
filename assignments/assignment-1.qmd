@@ -10,7 +10,7 @@ title: "Assignment 1"
 
 My first assignment has three parts.
 
-## (a)Getting Started with Shiny for Python - in the browser! \|\| Winston Chang \|\| Posit
+## (a) Getting Started with Shiny for Python - in the browser! \|\| Winston Chang \|\| Posit
 
 I watched the video "Getting Started with Shiny for Python - in the browser! \|\| Winston Chang \|\| Posit" from Posit youtube channel. The video explains how to use a programming package called shiny in Python language. The person who recorded the video wrote Python codes on the left and created an interface on the right. This interface is like a meter, you use your mouse to move the meter's indicator to the right or left to the desired size. And the function at the bottom on the left is working. It returns you twice the size you set.
 
